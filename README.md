@@ -4,7 +4,7 @@ Start Here to learn Web Development!
 
 ## Course Titles
 
-- Getting Started: Browsers and Text editors
+- Getting Started: Browsers and Text Editors
 - HTML & CSS: The Basics
 - The Command Line
 - Version Control & Git
