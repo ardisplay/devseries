@@ -1,6 +1,6 @@
 # DevSeries: 
 
-Start here to learn Web Development!
+Start here to learn web development!
 
 ## Course Titles
 
