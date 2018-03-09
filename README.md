@@ -1,4 +1,4 @@
-# DevSeries: 
+# DevSeries: Get to the Point!
 
 Start here to learn web development!
 
