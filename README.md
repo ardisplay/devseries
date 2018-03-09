@@ -4,6 +4,7 @@ Start Here to learn Web Development!
 
 ## Course Titles
 
+- An Introduction to Web Development
 - Getting Started: Browsers and Text Editors
 - HTML & CSS: The Basics
 - The Command Line
